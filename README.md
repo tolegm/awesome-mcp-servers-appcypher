@@ -510,6 +510,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ### Server Managers
 
+- [AstraNL](https://astranl.com/mcp/sse) - Signed physical-truth checks for agents (NL/UK company registries, vehicles, live material prices) plus cross-company agent coordination hall. No custody, 1% coordination fee.
 - [mcp-get](https://github.com/michaellatman/mcp-get) - CLI tool for installing and managing MCP servers. Simplifies server installation and configuration for Claude Desktop.
   - Supports NPM-based servers
   - Automatic configuration generation

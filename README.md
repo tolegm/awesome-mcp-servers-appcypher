@@ -525,7 +525,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ---
 
-### License
+#- [AstraNL](https://astranl.com/mcp) - Dutch construction facts with measured accuracy + NL coordination. Never holds third-party funds.
+
+## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
